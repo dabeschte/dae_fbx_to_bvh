@@ -1,0 +1,1 @@
+FOR %%f IN (*.bvh) DO "C:\program files\blender foundation\blender\blender.exe" -b --python "C:\Users\mathi\repos\dae_fbx_to_bvh\convert_bvh_to_fbx.py" -- "%%f"
